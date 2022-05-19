@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
 
+import random
+
 # Created By: Alex De Meo
 # Date: 03/25/2022
 # Description: Generates 10 random numbers and calculates the average
 import constants
-import random
 
 
 def main():
